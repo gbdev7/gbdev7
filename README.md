@@ -1,7 +1,7 @@
 # 🧑‍💻 Gabriel Pereira
 **`Desenvolvedor FullStack`**
 ###
-Sou Gabriel Pereira, Tenho 20 anos e sou natural de Pernambuco, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em Java, JavaScript, Python, bancos de dados e automação, criando projetos práticos e buscando minha primeira oportunidade como desenvolvedor para transformar conhecimento em experiência real.
+Sou Gabriel Pereira, Tenho 20 anos e sou natural de Pernambuco, sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em Java, JavaScript, Python, bancos de dados e automação, criando projetos práticos e buscando Minha primeira oportunidade como desenvolvedor para transformar conhecimento em experiência real.
 
 ###
 
