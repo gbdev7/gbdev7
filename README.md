@@ -41,18 +41,15 @@
 
 ---
 
-### GitHub Analytics
+GitHub Analytics
 
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=gbdev7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gbdev7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbdev7&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbdev7&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gbdev7&label=VISITANTES&color=7C3AED&style=flat-square" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=gbdev7&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=888888" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7C3AED&height=100&section=footer)
