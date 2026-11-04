@@ -41,7 +41,7 @@
 
 ---
 
-GitHub Analytics
+###GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gbdev7&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
