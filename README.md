@@ -22,7 +22,7 @@
 
 ---
 
-### Tecnologias e ferramentas
+### Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,html,css,python,nodejs,postgres,docker,aws,git,github&theme=dark" />
