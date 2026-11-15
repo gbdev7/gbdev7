@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=180&section=header&text=Gabriel%20Pereira&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack&descSize=14&descAlignY=62)
 
 <p align="center">
-  Desenvolvedor em formação | Análise e Desenvolvimento de sistemas
+  Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
