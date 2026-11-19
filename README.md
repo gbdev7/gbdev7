@@ -34,7 +34,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |:---|:---|:---|
-| [SafePay Engine](https://github.com/gbdev7/safepay-engine) | Processamento de pagamentos, idempotência e arquitetura orientada a eventos. | Java, Spring Boot, RabbitMQ |
+| [SafePay Engine](https://github.com/gbdev7/safepay-engine) | Processamento de pagamentos, idempotência e Arquitetura orientada a eventos. | Java, Spring Boot, RabbitMQ |
 | [GB Screen](https://github.com/gbdev7/gb-screen) | Aplicação web para compartilhamento e transmissão de tela. | Full Stack |
 | [HelpDesk API](https://github.com/gbdev7/helpdesk-api) | API para gerenciamento de solicitações de suporte. | Backend, API REST |
 | [Quick Filler OCR](https://github.com/gbdev7/quick-filler-ocr) | Automação de leitura e processamento de documentos PDF. | Python, OCR |
