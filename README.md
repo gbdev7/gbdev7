@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudante de tecnologia apaixonado por desenvolvimento de software. Atualmente, concentro meus estudos em Java, desenvolvimento backend, APIs REST e tecnologias web. Busco evoluir constantemente por meio de projetos práticos, boas práticas de programação e soluções para problemas reais.
+  Estudante de tecnologia apaixonado por desenvolvimento de software. Atualmente, concentro meus estudos em Java, Desenvolvimento backend, APIs REST e tecnologias web. Busco evoluir constantemente por meio de projetos práticos, boas práticas de programação e soluções para problemas reais.
 </p>
 
 <p align="center">
